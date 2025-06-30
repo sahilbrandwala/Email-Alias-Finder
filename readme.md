@@ -55,7 +55,8 @@ python email_alias_finder.py
 ```
 
 
-3. View the Results
+### 3. View the Results
+
 plus_aliases.csv — all plus-addressing alias emails
 
 role_aliases.csv — all role-based alias emails
