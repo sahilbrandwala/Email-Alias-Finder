@@ -51,6 +51,10 @@ Edit
 
 ```bash
 python email_alias_finder.py
+
+```
+
+
 3. View the Results
 plus_aliases.csv — all plus-addressing alias emails
 
